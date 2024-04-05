@@ -17,7 +17,7 @@ Este bot de Discord está diseñado para ayudar a los jugadores a organizar grup
 
 ## Instalación
 
-1. Clona este repositorio en tu máquina local: git clone https://github.com/tu_usuario/bot-dc.git
+1. Clona este repositorio en tu máquina local: git clone https://github.com/behez0n/theBrothersRaidTool.git
 
 2. Instala las dependencias del proyecto: npm install
 
