@@ -32,8 +32,10 @@ Este bot de Discord está diseñado para ayudar a los jugadores a organizar grup
 
 Una vez que el bot esté en funcionamiento, los miembros del servidor de Discord pueden utilizar los comandos predefinidos para armar grupos en diferentes instancias de WoW. Por ejemplo:
 
-- `/icc25n`: Arma un grupo para la versión normal de la Ciudadela de Corona de Hielo de 25 jugadores.
-- `/icc10h`: Arma un grupo para la versión heroica de la Ciudadela de Corona de Hielo de 10 jugadores.
+- `/icc25n`: Da un aviso de que estas armando ICC25N, en formato respuesta y haciendo `@everyone`.
+- `/icc25h`: Da un aviso de que estas armando ICC25H, en formato respuesta y haciendo `@everyone`.
+- `/icc10h`: Da un aviso de que estas armando ICC10H, en formato respuesta y haciendo `@everyone`.
+- `/sr25n`: Da un aviso de que estas armando SR25N, en formato respuesta y haciendo `@everyone`.
 
 ## Contribuir
 
